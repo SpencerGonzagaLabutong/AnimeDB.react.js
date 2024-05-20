@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SpencerGonzagaLabutong/AnimeDB.react.js.git/static/css/main.abf9fd5d.css",
+    "main.js": "/SpencerGonzagaLabutong/AnimeDB.react.js.git/static/js/main.2d76bbbc.js",
+    "static/media/banner.mp4": "/SpencerGonzagaLabutong/AnimeDB.react.js.git/static/media/banner.88b6395e3c1901faf6df.mp4",
+    "static/media/akatsuki.png": "/SpencerGonzagaLabutong/AnimeDB.react.js.git/static/media/akatsuki.cbf7e27dad442fab4e3b.png",
+    "index.html": "/SpencerGonzagaLabutong/AnimeDB.react.js.git/index.html",
+    "main.abf9fd5d.css.map": "/SpencerGonzagaLabutong/AnimeDB.react.js.git/static/css/main.abf9fd5d.css.map",
+    "main.2d76bbbc.js.map": "/SpencerGonzagaLabutong/AnimeDB.react.js.git/static/js/main.2d76bbbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abf9fd5d.css",
+    "static/js/main.2d76bbbc.js"
+  ]
+}
