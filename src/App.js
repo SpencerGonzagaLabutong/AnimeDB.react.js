@@ -1,24 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+import "bootstrap/dist/css/bootstrap.min.css";
+import './app.css';
+import Home from "./components/home";
+import TopAnime from "./components/topanime";
+import NavBar from "./components/navbar";
+import Singlepage from "./components/singlepage";
+import AnimeList from "./components/animelist";
+import {BrowserRouter, Routes, Route,} from "react-router-dom";
+import Footer from "./components/footer";
+import bannerVideo from './video/banner.mp4';
+import logo from './video/akatsuki.png';
+
 
 function App() {
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <BrowserRouter>
+        <NavBar vid={bannerVideo} img={logo}></NavBar>
+        <Routes>
+  
+            <Route path="/" element={<Home></Home>}></Route>
+            <Route path="/topanime" element={<TopAnime></TopAnime>}></Route>
+            <Route path="/modal" element={<Singlepage></Singlepage>}></Route>
+            <Route path="/myanime" element={<AnimeList></AnimeList>}></Route>
+ 
+ 
+        </Routes> 
+        <Footer></Footer>
+     </BrowserRouter>
+    </>
   );
 }
 
