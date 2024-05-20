@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SpencerGonzagaLabutong/AnimeDB.react.js.git/static/css/main.abf9fd5d.css",
-    "main.js": "/SpencerGonzagaLabutong/AnimeDB.react.js.git/static/js/main.2d76bbbc.js",
-    "static/media/banner.mp4": "/SpencerGonzagaLabutong/AnimeDB.react.js.git/static/media/banner.88b6395e3c1901faf6df.mp4",
-    "static/media/akatsuki.png": "/SpencerGonzagaLabutong/AnimeDB.react.js.git/static/media/akatsuki.cbf7e27dad442fab4e3b.png",
-    "index.html": "/SpencerGonzagaLabutong/AnimeDB.react.js.git/index.html",
-    "main.abf9fd5d.css.map": "/SpencerGonzagaLabutong/AnimeDB.react.js.git/static/css/main.abf9fd5d.css.map",
-    "main.2d76bbbc.js.map": "/SpencerGonzagaLabutong/AnimeDB.react.js.git/static/js/main.2d76bbbc.js.map"
+    "main.css": "/AnimeDB.react.js/static/css/main.abf9fd5d.css",
+    "main.js": "/AnimeDB.react.js/static/js/main.7fe9952c.js",
+    "static/media/banner.mp4": "/AnimeDB.react.js/static/media/banner.88b6395e3c1901faf6df.mp4",
+    "static/media/akatsuki.png": "/AnimeDB.react.js/static/media/akatsuki.cbf7e27dad442fab4e3b.png",
+    "index.html": "/AnimeDB.react.js/index.html",
+    "main.abf9fd5d.css.map": "/AnimeDB.react.js/static/css/main.abf9fd5d.css.map",
+    "main.7fe9952c.js.map": "/AnimeDB.react.js/static/js/main.7fe9952c.js.map"
   },
   "entrypoints": [
     "static/css/main.abf9fd5d.css",
-    "static/js/main.2d76bbbc.js"
+    "static/js/main.7fe9952c.js"
   ]
 }
